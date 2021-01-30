@@ -31,4 +31,4 @@ Here you'll find a data set (JSON file) with about 10.000 sentences. Each entry 
 * Please send us the challenge within 2 days after receiving it
 * Use a Jupyter Notebook (Optional)
 * Add starting instructions to a README.md
-* Use Python 3.6
+* Use Python 3.6 (I used python 3.8; I hope this was fine)
