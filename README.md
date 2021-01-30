@@ -32,3 +32,9 @@ Here you'll find a data set (JSON file) with about 10.000 sentences. Each entry 
 * Use a Jupyter Notebook (Optional)
 * Add starting instructions to a README.md
 * Use Python 3.6 (I used python 3.8; I hope this was fine)
+
+## Command line tool
+
+I decided to write a python skript which can be run in the terminal with the input as the arguments:
+
+`python classify_job_requirements.py 'input'`
